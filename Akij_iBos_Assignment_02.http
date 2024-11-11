@@ -1,0 +1,6 @@
+@Akij_iBos_Assignment_02_HostAddress = http://localhost:5056
+
+GET {{Akij_iBos_Assignment_02_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
